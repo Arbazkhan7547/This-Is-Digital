@@ -4,6 +4,11 @@
      font-weight: 400;
  }
  @font-face{
+  font-family:gilroy;
+   src: url("./fonts/Gilroy-Regular.otf");
+   font-weight: 100;
+}
+ @font-face{
    font-family:gilroy;
     src: url("./fonts/Gilroy-Regular.otf");
     font-weight: 300;
@@ -14,6 +19,11 @@
     font-weight: 200;
  }
  @font-face{
+  font-family:gilroy;
+   src: url("./fonts/Gilroy-Semibold.otf");
+   font-weight: 500;
+}
+ @font-face{
    font-family:gilroy;
     src: url("./fonts/Gilroy-Semibold.otf");
     font-weight: 600;
@@ -23,6 +33,11 @@
     src: url("./fonts/Gilroy-Bold.otf");
     font-weight: 700;
  }
+ @font-face{
+  font-family:gilroy;
+   src: url("./fonts/Gilroy-Bold.otf");
+   font-weight: 500;
+}
  @font-face{
    font-family:"CooperLtBTWxx-Light";
    src: url("./CooperLtBTWXXLight.ttf");
